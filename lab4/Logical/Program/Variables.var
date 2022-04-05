@@ -1,0 +1,4 @@
+VAR
+	real_shit : INT;
+	speed : INT;
+END_VAR

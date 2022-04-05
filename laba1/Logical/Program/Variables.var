@@ -1,0 +1,5 @@
+VAR
+	led1 : BOOL;
+	led2 : BOOL;
+	i : USINT;
+END_VAR

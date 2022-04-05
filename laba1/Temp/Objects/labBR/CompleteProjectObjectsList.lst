@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.5.2.102"?>
+<Objects>
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Logical\Package.pkg"
+    LogicalPath=""
+    Type="Package.ParentUnknown"
+    LastWriteTime="132894002016105106" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Logical\Global.typ"
+    LogicalPath="Global.typ"
+    Type="File"
+    LastWriteTime="132893944954504336"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Logical\Global.var"
+    LogicalPath="Global.var"
+    Type="File"
+    LastWriteTime="132893944954660637"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Logical\Libraries\Package.pkg"
+    LogicalPath="Libraries"
+    Type="Package"
+    LastWriteTime="132893944972248003" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Logical\Libraries\operator\binary.lby"
+    LogicalPath="Libraries.operator"
+    Type="Library"
+    LastWriteTime="132893944961425805" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Logical\Libraries\operator\operator.fun"
+    LogicalPath="Libraries.operator.operator.fun"
+    Type="File"
+    LastWriteTime="132893944961325724"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Logical\Libraries\operator\operator.typ"
+    LogicalPath="Libraries.operator.operator.typ"
+    Type="File"
+    LastWriteTime="132893944961325724"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Logical\Libraries\operator\operator.var"
+    LogicalPath="Libraries.operator.operator.var"
+    Type="File"
+    LastWriteTime="132893944961425805"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Logical\Libraries\runtime\binary.lby"
+    LogicalPath="Libraries.runtime"
+    Type="Library"
+    LastWriteTime="132893944965053131" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Logical\Libraries\runtime\runtime.fun"
+    LogicalPath="Libraries.runtime.runtime.fun"
+    Type="File"
+    LastWriteTime="132893944965053131"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Logical\Libraries\runtime\runtime.typ"
+    LogicalPath="Libraries.runtime.runtime.typ"
+    Type="File"
+    LastWriteTime="132893944965053131"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Logical\Libraries\runtime\runtime.var"
+    LogicalPath="Libraries.runtime.runtime.var"
+    Type="File"
+    LastWriteTime="132893944965053131"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Logical\Libraries\astime\binary.lby"
+    LogicalPath="Libraries.astime"
+    Type="Library"
+    LastWriteTime="132893944968736421" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Logical\Libraries\astime\astime.fun"
+    LogicalPath="Libraries.astime.astime.fun"
+    Type="File"
+    LastWriteTime="132893944968636348"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Logical\Libraries\astime\astime.typ"
+    LogicalPath="Libraries.astime.astime.typ"
+    Type="File"
+    LastWriteTime="132893944968636348"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Logical\Libraries\astime\astime.var"
+    LogicalPath="Libraries.astime.astime.var"
+    Type="File"
+    LastWriteTime="132893944968736421"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Logical\Libraries\AsIecCon\binary.lby"
+    LogicalPath="Libraries.AsIecCon"
+    Type="Library"
+    LastWriteTime="132893944972147926" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Logical\Libraries\AsIecCon\AsIecCon.fun"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.fun"
+    Type="File"
+    LastWriteTime="132893944972066912"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Logical\Libraries\AsIecCon\AsIecCon.typ"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.typ"
+    Type="File"
+    LastWriteTime="132893944972066912"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Logical\Libraries\AsIecCon\AsIecCon.var"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.var"
+    Type="File"
+    LastWriteTime="132893944972147926"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Logical\Program\ANSIC.prg"
+    LogicalPath="Program"
+    Type="Program"
+    LastWriteTime="132893948066379504" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Logical\Program\Main.c"
+    LogicalPath="Program.Main.c"
+    Type="File"
+    LastWriteTime="132893958557684640"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Logical\Program\Types.typ"
+    LogicalPath="Program.Types.typ"
+    Type="File"
+    LastWriteTime="132893948066379504"
+    Private="true" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Logical\Program\Variables.var"
+    LogicalPath="Program.Variables.var"
+    Type="File"
+    LastWriteTime="132893948943508579"
+    Private="true" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Logical\Program1\ANSIC.prg"
+    LogicalPath="Program1"
+    Type="Program"
+    LastWriteTime="132894001984013146" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Logical\Program1\Main.c"
+    LogicalPath="Program1.Main.c"
+    Type="File"
+    LastWriteTime="132894003226499065"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Logical\Program1\Types.typ"
+    LogicalPath="Program1.Types.typ"
+    Type="File"
+    LastWriteTime="132894001984013146"
+    Private="true" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Logical\Program1\Variables.var"
+    LogicalPath="Program1.Variables.var"
+    Type="File"
+    LastWriteTime="132894003226655582"
+    Private="true" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Logical\Program2\ANSIC.prg"
+    LogicalPath="Program2"
+    Type="Program"
+    LastWriteTime="132894002016105106" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Logical\Program2\Main.cpp"
+    LogicalPath="Program2.Main.cpp"
+    Type="File"
+    LastWriteTime="132894003229656376"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Logical\Program2\Types.typ"
+    LogicalPath="Program2.Types.typ"
+    Type="File"
+    LastWriteTime="132894002016105106"
+    Private="true" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Logical\Program2\Variables.var"
+    LogicalPath="Program2.Variables.var"
+    Type="File"
+    LastWriteTime="132894003227499120"
+    Private="true" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Physical\labBR\Config.pkg"
+    LogicalPath="labBR"
+    Type="Configuration.ParentUnknown"
+    LastWriteTime="132893944996596441" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Physical\labBR\Hardware.hw"
+    LogicalPath="labBR.Hardware.hw"
+    Type="File"
+    LastWriteTime="132893970381057905"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Physical\labBR\Hardware.hwl"
+    LogicalPath="labBR.Hardware.hwl"
+    Type="File"
+    LastWriteTime="132893970453936261"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Physical\labBR\4PP065_0571_P74\Cpu.pkg"
+    LogicalPath="labBR.4PP065_0571_P74"
+    Type="Cpu"
+    LastWriteTime="132893962968490574" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Physical\labBR\4PP065_0571_P74\Cpu.sw"
+    LogicalPath="labBR.4PP065_0571_P74.Cpu.sw"
+    Type="File"
+    LastWriteTime="132894016189935529"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Physical\labBR\4PP065_0571_P74\Cpu.per"
+    LogicalPath="labBR.4PP065_0571_P74.Cpu.per"
+    Type="File"
+    LastWriteTime="132893944973717775"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Physical\labBR\4PP065_0571_P74\IoMap.iom"
+    LogicalPath="labBR.4PP065_0571_P74.IoMap.iom"
+    Type="File"
+    LastWriteTime="132894016444185063"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Physical\labBR\4PP065_0571_P74\PvMap.vvm"
+    LogicalPath="labBR.4PP065_0571_P74.PvMap.vvm"
+    Type="File"
+    LastWriteTime="132893944973717775"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Physical\labBR\4PP065_0571_P74\Connectivity\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.Connectivity"
+    Type="Package"
+    LastWriteTime="132893944974030485" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Physical\labBR\4PP065_0571_P74\Connectivity\OpcUA\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.Connectivity.OpcUA"
+    Type="Package"
+    LastWriteTime="132893944974030485" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Physical\labBR\4PP065_0571_P74\TextSystem\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.TextSystem"
+    Type="Package"
+    LastWriteTime="132893944974186418" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Physical\labBR\4PP065_0571_P74\UnitSystem\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.UnitSystem"
+    Type="Package"
+    LastWriteTime="132893944974251488" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Physical\labBR\4PP065_0571_P74\AccessAndSecurity\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.AccessAndSecurity"
+    Type="Package"
+    LastWriteTime="132893944974726791" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Physical\labBR\4PP065_0571_P74\AccessAndSecurity\UserRoleSystem\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.AccessAndSecurity.UserRoleSystem"
+    Type="Package"
+    LastWriteTime="132893944974450295" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Physical\labBR\4PP065_0571_P74\AccessAndSecurity\UserRoleSystem\Role.role"
+    LogicalPath="labBR.4PP065_0571_P74.AccessAndSecurity.UserRoleSystem.Role.role"
+    Type="File"
+    LastWriteTime="132893944974410408"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Physical\labBR\4PP065_0571_P74\AccessAndSecurity\UserRoleSystem\User.user"
+    LogicalPath="labBR.4PP065_0571_P74.AccessAndSecurity.UserRoleSystem.User.user"
+    Type="File"
+    LastWriteTime="132893944974440327"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Physical\labBR\4PP065_0571_P74\AccessAndSecurity\CertificateStore\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.AccessAndSecurity.CertificateStore"
+    Type="Package"
+    LastWriteTime="132893944974726791" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Physical\labBR\4PP065_0571_P74\AccessAndSecurity\CertificateStore\OwnCertificates\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.AccessAndSecurity.CertificateStore.OwnCertificates"
+    Type="Package"
+    LastWriteTime="132893944974570560" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Physical\labBR\4PP065_0571_P74\AccessAndSecurity\CertificateStore\OwnCertificates\Certificates\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.AccessAndSecurity.CertificateStore.OwnCertificates.Certificates"
+    Type="Package"
+    LastWriteTime="132893944974570560" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Physical\labBR\4PP065_0571_P74\AccessAndSecurity\CertificateStore\OwnCertificates\PrivateKeys\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.AccessAndSecurity.CertificateStore.OwnCertificates.PrivateKeys"
+    Type="Package"
+    LastWriteTime="132893944974570560" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Physical\labBR\4PP065_0571_P74\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.AccessAndSecurity.CertificateStore.ThirdPartyCertificates"
+    Type="Package"
+    LastWriteTime="132893944974570560" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Physical\labBR\4PP065_0571_P74\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\SoftwareCertificates\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.AccessAndSecurity.CertificateStore.ThirdPartyCertificates.SoftwareCertificates"
+    Type="Package"
+    LastWriteTime="132893944974570560" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Physical\labBR\4PP065_0571_P74\AccessAndSecurity\CertificateStore\CertificateRevocationLists\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.AccessAndSecurity.CertificateStore.CertificateRevocationLists"
+    Type="Package"
+    LastWriteTime="132893944974726791" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Physical\labBR\4PP065_0571_P74\AccessAndSecurity\CertificateStore\CertificateSigningRequests\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.AccessAndSecurity.CertificateStore.CertificateSigningRequests"
+    Type="Package"
+    LastWriteTime="132893944974726791" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Physical\labBR\4PP065_0571_P74\AccessAndSecurity\TransportLayerSecurity\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.AccessAndSecurity.TransportLayerSecurity"
+    Type="Package"
+    LastWriteTime="132893944974726791" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Physical\labBR\4PP065_0571_P74\mappControl\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.mappControl"
+    Type="Package"
+    LastWriteTime="132893944974883004" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Physical\labBR\4PP065_0571_P74\mappMotion\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.mappMotion"
+    Type="Package"
+    LastWriteTime="132893944974883004" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Physical\labBR\4PP065_0571_P74\mappServices\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.mappServices"
+    Type="Package"
+    LastWriteTime="132893944975039212" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Physical\labBR\4PP065_0571_P74\mappView\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.mappView"
+    Type="Package"
+    LastWriteTime="132893944975039212" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Physical\labBR\4PP065_0571_P74\mappCockpit\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.mappCockpit"
+    Type="Package"
+    LastWriteTime="132893944975195433" />
+  <Object
+    Path="C:\Users\admin\Desktop\davidka\laba1\Physical\labBR\Hardware.jpg"
+    LogicalPath="labBR.Hardware.jpg"
+    Type="File"
+    LastWriteTime="132894016451255883"
+    Private="false" />
+</Objects>
